@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaudoProApp", "LaudoProApp\LaudoProApp.csproj", "{E8576601-D3BD-4F32-9A08-9D8045C2664B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaudoProApp.Infrastructure", "LaudoProApp.Infrastructure\LaudoProApp.Infrastructure.csproj", "{5D11EE86-F300-4E70-8331-09C9BF6BAF4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaudoProApp.Application", "LaudoProApp.Application\LaudoProApp.Application.csproj", "{88D59EDD-736D-49C5-8E8E-6EEAB936E3F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaudoProApp.Domain", "LaudoProApp.Domain\LaudoProApp.Domain.csproj", "{61733405-8D7A-485B-BFF6-DBF3A17C63EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8576601-D3BD-4F32-9A08-9D8045C2664B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8576601-D3BD-4F32-9A08-9D8045C2664B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8576601-D3BD-4F32-9A08-9D8045C2664B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E8576601-D3BD-4F32-9A08-9D8045C2664B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8576601-D3BD-4F32-9A08-9D8045C2664B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D11EE86-F300-4E70-8331-09C9BF6BAF4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D11EE86-F300-4E70-8331-09C9BF6BAF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D11EE86-F300-4E70-8331-09C9BF6BAF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D11EE86-F300-4E70-8331-09C9BF6BAF4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88D59EDD-736D-49C5-8E8E-6EEAB936E3F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D59EDD-736D-49C5-8E8E-6EEAB936E3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D59EDD-736D-49C5-8E8E-6EEAB936E3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D59EDD-736D-49C5-8E8E-6EEAB936E3F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61733405-8D7A-485B-BFF6-DBF3A17C63EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61733405-8D7A-485B-BFF6-DBF3A17C63EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61733405-8D7A-485B-BFF6-DBF3A17C63EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61733405-8D7A-485B-BFF6-DBF3A17C63EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB040D7E-3EB7-4976-AC2F-5DAF19FA6ACA}
+	EndGlobalSection
+EndGlobal

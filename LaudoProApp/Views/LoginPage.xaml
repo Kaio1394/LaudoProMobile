@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LaudoProApp.Views.LoginPage"
+             xmlns:viewmodel="clr-namespace:LaudoProApp.ViewModels">
+    <VerticalStackLayout
+        Padding="30"
+         Spacing="20">
+
+        <Image
+            Source="laudo_pro_icon.png"
+            HeightRequest="150"
+            Aspect="AspectFit"
+            HorizontalOptions="Center"
+            VerticalOptions="Center"/>
+
+        <Label
+            Text="Laudos Técnicos de Engenharia"
+            FontSize="15"
+            HorizontalOptions="Center"
+            VerticalOptions="Center"
+            FontAttributes="Bold"/>
+
+        <Entry
+            x:Name="FieldUser"
+            Placeholder="USUÁRIO"
+            VerticalOptions="Center"
+            HorizontalOptions="Fill"
+            Text="{Binding Username}" />
+
+        <Entry
+            x:Name="FieldPassword"
+            Placeholder="SENHA"
+            VerticalOptions="Center"
+            HorizontalOptions="Fill"
+            IsPassword="True"
+            Text="{Binding Password}" />
+
+        <Button
+            Text="Login"
+            VerticalOptions="Center"
+            HorizontalOptions="Fill"
+            Command="{Binding DoLoginCommand}"
+            BackgroundColor="Orange"/>
+
+        <Label
+            Text="Esqueceu sua senha?"
+            FontSize="15"
+            HorizontalOptions="End"
+            VerticalOptions="Center"
+            FontAttributes="Bold"
+            TextColor="Orange"/>
+
+        <Label
+            Text="Não tem conta? Cadastre-se"
+            FontSize="15"
+            HorizontalOptions="Center"
+            VerticalOptions="Center"
+            FontAttributes="Bold"
+            TextColor="Blue"/>
+
+        <Label
+            Text="Ou entre com"
+            FontSize="15"
+            HorizontalOptions="Center"
+            VerticalOptions="Center"
+            TextColor="Black"
+            Margin="0,90,0,0"/>
+
+        <HorizontalStackLayout
+            HorizontalOptions="Center">
+
+            <Image
+                Source="ic_google.png"
+                HeightRequest="50"
+                WidthRequest="50"
+                Aspect="AspectFit"
+                Margin="10,0,10,0"/>
+
+            <Image
+                Source="ic_linkedin.png"
+                HeightRequest="50"
+                WidthRequest="50"
+                Aspect="AspectFit"
+                Margin="10,0,10,0"/>
+        </HorizontalStackLayout>
+    </VerticalStackLayout>
+</ContentPage>
