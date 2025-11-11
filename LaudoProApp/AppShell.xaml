@@ -8,7 +8,7 @@
     xmlns:views="clr-namespace:LaudoProApp.Views">
 
     <ShellContent
-        ContentTemplate="{DataTemplate views:LoginPage}"
+        ContentTemplate="{DataTemplate views:RegisterPage}"
         Shell.NavBarIsVisible="False"
         Route="LoginPage" />
 

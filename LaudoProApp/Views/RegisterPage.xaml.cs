@@ -4,9 +4,9 @@ namespace LaudoProApp.Views;
 
 public partial class RegisterPage : ContentPage
 {
-	public RegisterPage(RegisterViewModel vm)
+	public RegisterPage()
 	{
 		InitializeComponent();
-		BindingContext = vm;
+		BindingContext = new RegisterViewModel();
     }
 }
