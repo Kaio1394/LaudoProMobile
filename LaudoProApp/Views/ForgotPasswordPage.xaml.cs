@@ -4,9 +4,9 @@ namespace LaudoProApp.Views;
 
 public partial class ForgotPasswordPage : ContentPage
 {
-	public ForgotPasswordPage(ForgotPasswordViewModel vm)
+	public ForgotPasswordPage()
 	{
 		InitializeComponent();
-		BindingContext = vm;
+		BindingContext = new ForgotPasswordViewModel();
     }
 }

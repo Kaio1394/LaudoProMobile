@@ -56,6 +56,25 @@
                          Value="Empresa" />
         </HorizontalStackLayout>
 
+        <Label
+            Text="Ao cadastrar-se, você concorda com os Termos de Serviço e Política de Privacidade."
+            FontSize="12"
+            HorizontalOptions="Center"
+            VerticalOptions="Center"
+            FontAttributes="Italic"
+            TextColor="Gray"/>
+
+        <HorizontalStackLayout
+            HorizontalOptions="Start"
+            VerticalOptions="Center">
+            <CheckBox x:Name="ChkNewsletter"
+                      IsChecked="False"
+                      Margin="-10,0,0,0"/>
+            <Label
+                Text="Concordar"
+                Margin="0,12,0,0"/>
+        </HorizontalStackLayout>
+
         <Button
             x:Name="BtnRegister"
             Text="Cadastrar"

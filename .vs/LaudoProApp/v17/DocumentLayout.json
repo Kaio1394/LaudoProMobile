@@ -3,32 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|c:\\users\\kaios\\source\\repos\\laudoproapp\\laudoproapp\\views\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|solutionrelative:laudoproapp\\views\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|c:\\users\\kaios\\source\\repos\\laudoproapp\\laudoproapp\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|solutionrelative:laudoproapp\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|c:\\users\\kaios\\source\\repos\\laudoproapp\\laudoproapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|solutionrelative:laudoproapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|c:\\users\\kaios\\source\\repos\\laudoproapp\\laudoproapp\\views\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|solutionrelative:laudoproapp\\views\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|c:\\users\\kaios\\source\\repos\\laudoproapp\\laudoproapp\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|solutionrelative:laudoproapp\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|c:\\users\\kaios\\source\\repos\\laudoproapp\\laudoproapp\\views\\forgotpasswordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|solutionrelative:laudoproapp\\views\\forgotpasswordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|c:\\users\\kaios\\source\\repos\\laudoproapp\\laudoproapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|solutionrelative:laudoproapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|c:\\users\\kaios\\source\\repos\\laudoproapp\\laudoproapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|solutionrelative:laudoproapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|c:\\users\\kaios\\source\\repos\\laudoproapp\\laudoproapp\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|solutionrelative:laudoproapp\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|c:\\users\\kaios\\source\\repos\\laudoproapp\\laudoproapp\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|solutionrelative:laudoproapp\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|c:\\users\\kaios\\source\\repos\\laudoproapp\\laudoproapp\\viewmodels\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|solutionrelative:laudoproapp\\viewmodels\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|c:\\users\\kaios\\source\\repos\\laudoproapp\\laudoproapp\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|solutionrelative:laudoproapp\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|c:\\users\\kaios\\source\\repos\\laudoproapp\\laudoproapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|solutionrelative:laudoproapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|c:\\users\\kaios\\source\\repos\\laudoproapp\\laudoproapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|solutionrelative:laudoproapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|c:\\users\\kaios\\source\\repos\\laudoproapp\\laudoproapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|solutionrelative:laudoproapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|c:\\users\\kaios\\source\\repos\\laudoproapp\\laudoproapp\\views\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|solutionrelative:laudoproapp\\views\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|c:\\users\\kaios\\source\\repos\\laudoproapp\\laudoproapp\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,16 +59,8 @@
       "RelativeMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|solutionrelative:laudoproapp\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|c:\\users\\kaios\\source\\repos\\laudoproapp\\laudoproapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|solutionrelative:laudoproapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|c:\\users\\kaios\\source\\repos\\laudoproapp\\laudoproapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|solutionrelative:laudoproapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|c:\\users\\kaios\\source\\repos\\laudoproapp\\laudoproapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|solutionrelative:laudoproapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|c:\\users\\kaios\\source\\repos\\laudoproapp\\laudoproapp\\globalxmlns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -77,18 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|c:\\users\\kaios\\source\\repos\\laudoproapp\\laudoproapp\\components\\inputfield.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|solutionrelative:laudoproapp\\components\\inputfield.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|c:\\users\\kaios\\source\\repos\\laudoproapp\\laudoproapp\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|solutionrelative:laudoproapp\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|c:\\users\\kaios\\source\\repos\\laudoproapp\\laudoproapp\\views\\forgotpasswordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|solutionrelative:laudoproapp\\views\\forgotpasswordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|c:\\users\\kaios\\source\\repos\\laudoproapp\\laudoproapp\\viewmodels\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8576601-D3BD-4F32-9A08-9D8045C2664B}|LaudoProApp\\LaudoProApp.csproj|solutionrelative:laudoproapp\\viewmodels\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,26 +106,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\AppShell.xaml",
-              "RelativeDocumentMoniker": "LaudoProApp\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\AppShell.xaml",
-              "RelativeToolTip": "LaudoProApp\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "LaudoProApp\\Views\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "LaudoProApp\\Views\\LoginPage.xaml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-07T03:00:27.779Z",
+              "WhenOpened": "2025-11-08T04:16:44.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "LaudoProApp\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "LaudoProApp\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T04:10:54.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "LaudoProApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\App.xaml.cs",
+              "RelativeToolTip": "LaudoProApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T02:54:26.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "RegisterPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Views\\RegisterPage.xaml.cs",
               "RelativeDocumentMoniker": "LaudoProApp\\Views\\RegisterPage.xaml.cs",
               "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Views\\RegisterPage.xaml.cs",
               "RelativeToolTip": "LaudoProApp\\Views\\RegisterPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T04:20:03.881Z",
               "EditorCaption": ""
@@ -133,118 +159,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LoginPage.xaml",
-              "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Views\\LoginPage.xaml",
-              "RelativeDocumentMoniker": "LaudoProApp\\Views\\LoginPage.xaml",
-              "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Views\\LoginPage.xaml",
-              "RelativeToolTip": "LaudoProApp\\Views\\LoginPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-08T04:16:44.801Z",
+              "Title": "ForgotPasswordPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Views\\ForgotPasswordPage.xaml.cs",
+              "RelativeDocumentMoniker": "LaudoProApp\\Views\\ForgotPasswordPage.xaml.cs",
+              "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Views\\ForgotPasswordPage.xaml.cs",
+              "RelativeToolTip": "LaudoProApp\\Views\\ForgotPasswordPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T04:17:27.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LoginPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Views\\LoginPage.xaml.cs",
               "RelativeDocumentMoniker": "LaudoProApp\\Views\\LoginPage.xaml.cs",
               "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Views\\LoginPage.xaml.cs",
               "RelativeToolTip": "LaudoProApp\\Views\\LoginPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T04:19:44.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RegisterPage.xaml",
-              "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Views\\RegisterPage.xaml",
-              "RelativeDocumentMoniker": "LaudoProApp\\Views\\RegisterPage.xaml",
-              "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Views\\RegisterPage.xaml",
-              "RelativeToolTip": "LaudoProApp\\Views\\RegisterPage.xaml",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAmwDYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-08T04:17:09.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\App.xaml.cs",
-              "RelativeDocumentMoniker": "LaudoProApp\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\App.xaml.cs",
-              "RelativeToolTip": "LaudoProApp\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T02:54:26.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ForgotPasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\ViewModels\\ForgotPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "LaudoProApp\\ViewModels\\ForgotPasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\ViewModels\\ForgotPasswordViewModel.cs",
+              "RelativeToolTip": "LaudoProApp\\ViewModels\\ForgotPasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T04:14:54.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "LaudoProApp\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "LaudoProApp\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD0AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T04:14:26.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "LaudoProApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\MauiProgram.cs",
+              "RelativeToolTip": "LaudoProApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T15:14:42.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "LaudoProApp\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\AppShell.xaml",
+              "RelativeToolTip": "LaudoProApp\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-07T03:00:27.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\App.xaml",
               "RelativeDocumentMoniker": "LaudoProApp\\App.xaml",
               "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\App.xaml",
               "RelativeToolTip": "LaudoProApp\\App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-07T02:54:30.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainApplication.cs",
-              "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Platforms\\Android\\MainApplication.cs",
-              "RelativeDocumentMoniker": "LaudoProApp\\Platforms\\Android\\MainApplication.cs",
-              "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Platforms\\Android\\MainApplication.cs",
-              "RelativeToolTip": "LaudoProApp\\Platforms\\Android\\MainApplication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T00:57:41.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainActivity.cs",
-              "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Platforms\\Android\\MainActivity.cs",
-              "RelativeDocumentMoniker": "LaudoProApp\\Platforms\\Android\\MainActivity.cs",
-              "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Platforms\\Android\\MainActivity.cs",
-              "RelativeToolTip": "LaudoProApp\\Platforms\\Android\\MainActivity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T00:57:39.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "LaudoProApp\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\AppShell.xaml.cs",
-              "RelativeToolTip": "LaudoProApp\\AppShell.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T23:11:08.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "LaudoProApp\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\MauiProgram.cs",
-              "RelativeToolTip": "LaudoProApp\\MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T15:14:42.976Z",
+              "DocumentIndex": 11,
+              "Title": "RegisterPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Views\\RegisterPage.xaml",
+              "RelativeDocumentMoniker": "LaudoProApp\\Views\\RegisterPage.xaml",
+              "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Views\\RegisterPage.xaml",
+              "RelativeToolTip": "LaudoProApp\\Views\\RegisterPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-08T04:17:09.068Z",
               "EditorCaption": ""
             },
             {
@@ -254,6 +267,42 @@
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "LaudoProApp\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "LaudoProApp\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T00:57:41.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "LaudoProApp\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "LaudoProApp\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T00:57:39.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "LaudoProApp\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\AppShell.xaml.cs",
+              "RelativeToolTip": "LaudoProApp\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T23:11:08.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "GlobalXmlns.cs",
               "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\GlobalXmlns.cs",
               "RelativeDocumentMoniker": "LaudoProApp\\GlobalXmlns.cs",
@@ -265,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "AndroidManifest.xml",
               "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Platforms\\Android\\AndroidManifest.xml",
               "RelativeDocumentMoniker": "LaudoProApp\\Platforms\\Android\\AndroidManifest.xml",
@@ -276,19 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "LaudoProApp\\ViewModels\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\ViewModels\\LoginViewModel.cs",
-              "RelativeToolTip": "LaudoProApp\\ViewModels\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T04:10:54.334Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "CustomButton.xaml",
               "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Components\\CustomButton.xaml",
               "RelativeDocumentMoniker": "LaudoProApp\\Components\\CustomButton.xaml",
@@ -300,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "CustomButton.xaml.cs",
               "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Components\\CustomButton.xaml.cs",
               "RelativeDocumentMoniker": "LaudoProApp\\Components\\CustomButton.xaml.cs",
@@ -312,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "InputField.xaml.cs",
               "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Components\\InputField.xaml.cs",
               "RelativeDocumentMoniker": "LaudoProApp\\Components\\InputField.xaml.cs",
@@ -324,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "ForgotPasswordPage.xaml",
               "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Views\\ForgotPasswordPage.xaml",
               "RelativeDocumentMoniker": "LaudoProApp\\Views\\ForgotPasswordPage.xaml",
@@ -336,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "InputField.xaml",
               "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Components\\InputField.xaml",
               "RelativeDocumentMoniker": "LaudoProApp\\Components\\InputField.xaml",
@@ -345,42 +382,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-08T04:31:51.14Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ForgotPasswordPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Views\\ForgotPasswordPage.xaml.cs",
-              "RelativeDocumentMoniker": "LaudoProApp\\Views\\ForgotPasswordPage.xaml.cs",
-              "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\Views\\ForgotPasswordPage.xaml.cs",
-              "RelativeToolTip": "LaudoProApp\\Views\\ForgotPasswordPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T04:17:27.698Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\ViewModels\\RegisterViewModel.cs",
-              "RelativeDocumentMoniker": "LaudoProApp\\ViewModels\\RegisterViewModel.cs",
-              "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\ViewModels\\RegisterViewModel.cs",
-              "RelativeToolTip": "LaudoProApp\\ViewModels\\RegisterViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T04:14:26.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ForgotPasswordViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\ViewModels\\ForgotPasswordViewModel.cs",
-              "RelativeDocumentMoniker": "LaudoProApp\\ViewModels\\ForgotPasswordViewModel.cs",
-              "ToolTip": "C:\\Users\\kaios\\source\\repos\\LaudoProApp\\LaudoProApp\\ViewModels\\ForgotPasswordViewModel.cs",
-              "RelativeToolTip": "LaudoProApp\\ViewModels\\ForgotPasswordViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T04:14:54.427Z"
             }
           ]
         }

@@ -1,5 +1,6 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
+using LaudoProApp.Views;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,6 +21,18 @@ namespace LaudoProApp.ViewModels
         public void DoLogin()
         {
             // Implement login logic here
+        }
+
+        [RelayCommand]
+        public async Task NavigateToRegister()
+        {
+            await Shell.Current.GoToAsync(nameof(RegisterPage));
+        }
+
+        [RelayCommand]
+        public async Task NavigateToForgotPassword()
+        {
+            await Shell.Current.GoToAsync(nameof(ForgotPasswordPage));
         }
     }
 }
